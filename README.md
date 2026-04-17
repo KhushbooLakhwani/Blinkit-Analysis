@@ -1,5 +1,3 @@
-# Blinkit-Analysis
-
 # 🛒 Blinkit Data Analysis & ETL Project
 
 ## 📌 Overview
